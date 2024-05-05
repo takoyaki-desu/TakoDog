@@ -47,3 +47,5 @@ int main(int argc, char *argv[])
 
 	endwin();	/* cursesの終了処理 */
 }
+/*引用*/
+/*https://shuichi2525.hateblo.jp/entry/2024/03/06/235535*/
