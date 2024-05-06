@@ -11,7 +11,7 @@
 #define TEXTART_CLM	37
 
 char textart[TEXTART_ROW][TEXTART_CLM] = {
-{"         aiueo                      "},
+{"         _nnnn_                      "},
 {"        dGGGGMMb     ,.............. "},
 {"       @p~qp~~qMb    | Linux Rules! |"},
 {"       M|@||@) M|   _;..............'"},
