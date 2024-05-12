@@ -8,7 +8,7 @@ TARGET=neodog
 #生成したい静的ライブラリ名
 NAME =neodog
 #コンパイル対象としたいプログラム
-SRCS =index.c
+SRCS =neodog.c
 #コンパイラの指定
 CC=gcc
 
