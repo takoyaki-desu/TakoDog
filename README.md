@@ -21,3 +21,9 @@
     `-,,,  ,_      ;'~U'
      _,-' ,'`-__; '--.
     (_/'~~      ''''(;
+
+
+
+/*引用*/
+/*https://shuichi2525.hateblo.jp/entry/2024/03/06/235535*/
+/*https://github.com/mtoyoda/sl*/
