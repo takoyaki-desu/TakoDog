@@ -27,3 +27,4 @@
 /*引用*/
 /*https://shuichi2525.hateblo.jp/entry/2024/03/06/235535*/
 /*https://github.com/mtoyoda/sl*/
+/*https://patorjk.com/software/taag/*/
